@@ -1,2 +1,4 @@
+
 = Start
+@ ./res:[0x4005ab] + 0x18c1460 0xa
 = End
