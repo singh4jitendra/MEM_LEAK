@@ -1,3 +1,5 @@
+- Detect memory leak
+
 STEPS:
 ------
 gcc -o output mem.c
